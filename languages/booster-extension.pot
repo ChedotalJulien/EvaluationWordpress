@@ -1,0 +1,513 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Booster Extension\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-02 11:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: inc/frontend/read-time.php:20
+msgid " Minute"
+msgstr ""
+
+#: inc/frontend/read-time.php:20 inc/frontend/read-time.php:22
+msgid " Second"
+msgstr ""
+
+#: inc/backend/activation.php:5
+msgid "About Post Author"
+msgstr ""
+
+#: inc/backend/main-page.php:256
+msgid "Alignment"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:69
+msgid "Alignment:"
+msgstr ""
+
+#: inc/backend/main-page.php:437
+msgid "And Hook"
+msgstr ""
+
+#: inc/backend/main-page.php:116
+msgid "App ID"
+msgstr ""
+
+#: inc/backend/main-page.php:123
+msgid "App Secret Key"
+msgstr ""
+
+#: inc/backend/main-page.php:36
+msgid "Author Box"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:55
+msgid "Author Type:"
+msgstr ""
+
+#: booster-extension.php:125
+msgid "Behance"
+msgstr ""
+
+#: booster-extension.php:128
+msgid "Blogger"
+msgstr ""
+
+#. Name of the plugin
+#: inc/backend/main-page.php:8
+msgid "Booster Extension"
+msgstr ""
+
+#: inc/backend/main-page.php:15
+msgid ""
+"Booster Extension is a simple and lightweight WordPress plugin to help you "
+"supercharge your WordPress site. There’re numerous plugins in the WordPress "
+"repository, however if you install them all, there’s inconsistency in their "
+"backend and frontend styles and possible plugin conflicts."
+msgstr ""
+
+#: inc/backend/main-page.php:485
+msgid "Browse our free themes."
+msgstr ""
+
+#: inc/backend/main-page.php:475
+msgid "Browse our premium themes."
+msgstr ""
+
+#: inc/backend/main-page.php:260
+msgid "Center"
+msgstr ""
+
+#: inc/backend/main-page.php:482
+msgid ""
+"Check out our collection of Free WordPress Themes that are clean, simple and "
+"feature-rich."
+msgstr ""
+
+#: inc/backend/main-page.php:471
+msgid ""
+"Check out our simple, clean and responsive Premium WordPress Themes that "
+"come with an array of crucial features with a superior functionality."
+msgstr ""
+
+#: inc/backend/widget-base-class.php:280
+msgid "Choose Image"
+msgstr ""
+
+#: inc/backend/main-page.php:497
+msgid "Create Support Ticket"
+msgstr ""
+
+#: booster-extension.php:123
+msgid "Delicious"
+msgstr ""
+
+#: inc/backend/main-page.php:151 inc/backend/main-page.php:235
+#: inc/backend/main-page.php:338 inc/backend/main-page.php:403
+msgid "Display Settings"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:45
+msgid "Displays authors details in post."
+msgstr ""
+
+#: booster-extension.php:127
+msgid "Dribbble"
+msgstr ""
+
+#: inc/frontend/social-share.php:339
+msgid "Email"
+msgstr ""
+
+#: inc/backend/main-page.php:104
+msgid "Email Body"
+msgstr ""
+
+#: inc/backend/main-page.php:97
+msgid "Email Subject"
+msgstr ""
+
+#: inc/backend/main-page.php:345
+msgid "Enable Like/Dislike Button "
+msgstr ""
+
+#: inc/backend/main-page.php:410
+msgid "Enable Read Time "
+msgstr ""
+
+#: booster-extension.php:104 inc/frontend/social-share.php:122
+msgid "Facebook"
+msgstr ""
+
+#: booster-extension.php:129
+msgid "Flickr"
+msgstr ""
+
+#: inc/backend/main-page.php:509
+msgid "Found a bug? Please open an issue on"
+msgstr ""
+
+#: booster-extension.php:114
+msgid "FourSquare"
+msgstr ""
+
+#: inc/backend/main-page.php:480
+msgid "Free Themes"
+msgstr ""
+
+#: inc/backend/main-page.php:503
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: booster-extension.php:112
+msgid "Github"
+msgstr ""
+
+#: inc/backend/main-page.php:20
+msgid "Give it a 5 star rating"
+msgstr ""
+
+#: inc/backend/main-page.php:509
+msgid "Help Page"
+msgstr ""
+
+#: inc/backend/activation.php:19
+msgid "Hey I Got Something For You"
+msgstr ""
+
+#: inc/backend/main-page.php:208 inc/backend/main-page.php:311
+#: inc/backend/main-page.php:376 inc/backend/main-page.php:428
+msgid "How To Use"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.themeinwp.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.themeinwp.com/booster-extension/"
+msgstr ""
+
+#: inc/backend/main-page.php:507
+msgid ""
+"If your answer can not be found in the resources listed above, please use "
+"the support forums on WordPress.org."
+msgstr ""
+
+#: booster-extension.php:106
+msgid "Instagram"
+msgstr ""
+
+#: inc/backend/main-page.php:439
+msgid "is mainly designed for post read time calculate functionality."
+msgstr ""
+
+#: inc/backend/main-page.php:219
+msgid ""
+"is mainly designed for social share icons you can use these on Single posts, "
+"Archive and pages."
+msgstr ""
+
+#: inc/backend/main-page.php:322
+msgid ""
+"is mainly designed for user Author box there you can define user to show "
+"with user id on shortcode."
+msgstr ""
+
+#: inc/backend/main-page.php:387
+msgid "is mainly designed for WordPress posts like/dislike button."
+msgstr ""
+
+#: inc/backend/main-page.php:500
+msgid "Knowledge Base"
+msgstr ""
+
+#: inc/backend/main-page.php:258
+msgid "Left"
+msgstr ""
+
+#: inc/backend/main-page.php:22
+msgid "Like and follow"
+msgstr ""
+
+#: inc/backend/main-page.php:19
+msgid "Like this plugin?"
+msgstr ""
+
+#: booster-extension.php:108 inc/frontend/social-share.php:307
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/backend/main-page.php:493
+msgid "Looking for help?"
+msgstr ""
+
+#: inc/backend/main-page.php:189
+msgid "New Window"
+msgstr ""
+
+#: inc/backend/main-page.php:188
+msgid "New Window Tab"
+msgstr ""
+
+#: inc/backend/main-page.php:134
+msgid "Open Share Count."
+msgstr ""
+
+#: inc/backend/main-page.php:185
+msgid "Open Share Link On"
+msgstr ""
+
+#: booster-extension.php:107 inc/frontend/social-share.php:274
+msgid "Pinterest"
+msgstr ""
+
+#: inc/backend/main-page.php:133
+msgid ""
+"Please Register your website on Open Share Count to get twitter share count "
+msgstr ""
+
+#: inc/backend/main-page.php:39
+msgid "Post Like/Dislike"
+msgstr ""
+
+#: inc/backend/main-page.php:469
+msgid "Premium Themes"
+msgstr ""
+
+#: inc/backend/main-page.php:268
+msgid "Profile Image layout"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:79
+msgid "Profile Image layout:"
+msgstr ""
+
+#: inc/backend/main-page.php:42 inc/frontend/read-time.php:25
+msgid "Read Time"
+msgstr ""
+
+#: inc/backend/main-page.php:416
+msgid "Readtime Words Per Minute"
+msgstr ""
+
+#: inc/backend/main-page.php:466
+msgid "Recommendations"
+msgstr ""
+
+#: booster-extension.php:120
+msgid "Reddit"
+msgstr ""
+
+#: inc/backend/widget-base-class.php:291
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/backend/main-page.php:301
+msgid "Remove from post content"
+msgstr ""
+
+#: inc/backend/main-page.php:259
+msgid "Right"
+msgstr ""
+
+#: inc/backend/main-page.php:271
+msgid "Round"
+msgstr ""
+
+#: booster-extension.php:131
+msgid "RSS"
+msgstr ""
+
+#: inc/backend/main-page.php:187
+msgid "Same Window"
+msgstr ""
+
+#: inc/backend/main-page.php:458
+msgid "Save Settings"
+msgstr ""
+
+#: inc/backend/widget-base-class.php:280
+msgid "Select Image"
+msgstr ""
+
+#: inc/backend/activation.php:25 inc/frontend/social-share.php:30
+msgid "Share"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Share your site urls in most popular social medias and show share counts on "
+"your website with various designs. Calculate read time, singe post line and "
+"dislike counter, Author box with author details.."
+msgstr ""
+
+#: inc/backend/main-page.php:279
+msgid "Show Author Email"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:88
+msgid "Show Author Email:"
+msgstr ""
+
+#: inc/backend/main-page.php:293
+msgid "Show Author Role"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:98
+msgid "Show Author Role:"
+msgstr ""
+
+#: inc/backend/main-page.php:242
+msgid "Show Author Section"
+msgstr ""
+
+#: inc/backend/main-page.php:286
+msgid "Show Author URL"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:93
+msgid "Show Author URL:"
+msgstr ""
+
+#: inc/backend/main-page.php:366
+msgid "Show Like/Dislike On Archive Page"
+msgstr ""
+
+
+#: inc/backend/main-page.php:352
+msgid "Show Like/Dislike On Single Post"
+msgstr ""
+
+#: inc/backend/main-page.php:179
+msgid "Show On Archive Page"
+msgstr ""
+
+#: inc/backend/main-page.php:165
+msgid "Show On Single Post"
+msgstr ""
+
+#: inc/backend/main-page.php:197
+msgid "Show Social Share Count"
+msgstr ""
+
+#: booster-extension.php:119
+msgid "Skype"
+msgstr ""
+
+#: booster-extension.php:118
+msgid "Snapchat"
+msgstr ""
+
+#: inc/backend/main-page.php:33
+msgid "Social Share"
+msgstr ""
+
+#: inc/backend/main-page.php:157
+msgid "Social Share Title"
+msgstr ""
+
+#: booster-extension.php:124
+msgid "SoundCloud"
+msgstr ""
+
+#: booster-extension.php:130
+msgid "spotify"
+msgstr ""
+
+#: inc/backend/main-page.php:270
+msgid "Square"
+msgstr ""
+
+#: booster-extension.php:121
+msgid "Stack Overflow"
+msgstr ""
+
+#: booster-extension.php:126
+msgid "Steam"
+msgstr ""
+
+#: inc/backend/main-page.php:16
+msgid ""
+"That’s why we've created Booster Extension, essentials components for every "
+"WordPress blog or magazine."
+msgstr ""
+
+#: inc/backend/main-page.php:215 inc/backend/main-page.php:435
+msgid "The shortcode"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeInWP"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:50
+msgid "Title:"
+msgstr ""
+
+#: booster-extension.php:117
+msgid "Tumblr"
+msgstr ""
+
+#: booster-extension.php:116
+msgid "Twitch"
+msgstr ""
+
+#: booster-extension.php:105 inc/frontend/social-share.php:197
+msgid "Twitter"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:104
+msgid "BE: Author Widget"
+msgstr ""
+
+#: inc/backend/widget-base-class.php:280
+msgid "Upload"
+msgstr ""
+
+#: inc/backend/twp-be-author-widget.php:64
+msgid "User ID:"
+msgstr ""
+
+#: booster-extension.php:110
+msgid "Vimeo"
+msgstr ""
+
+#: booster-extension.php:115
+msgid "VK"
+msgstr ""
+
+#: inc/backend/main-page.php:494
+msgid "We have some resources available to help you in the right direction."
+msgstr ""
+
+#: booster-extension.php:111
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/backend/main-page.php:248
+msgid "Widget Author Box Title"
+msgstr ""
+
+#: booster-extension.php:113
+msgid "WordPress"
+msgstr ""
+
+#: booster-extension.php:122
+msgid "Xing"
+msgstr ""
+
+#: booster-extension.php:109
+msgid "Youtube"
+msgstr ""
