@@ -88,7 +88,7 @@ if( ! function_exists( 'pluginsimplon_post_reaction_display' ) ):
                         <img src="<?php echo pluginsimplon_URL . '/assets/icon/happy.svg';?>" alt="<?php esc_html_e('Happy','booster-extension') ?>">
                     </a>
                     <div class="twp-reaction-title">
-                        <?php esc_html_e('Good News','booster-extension') ?>
+                        <?php esc_html_e('Legitimate','booster-extension') ?>
                     </div>
                     <div class="twp-count-percent">
                         <?php if( $twp_be_react_percent_count != 'number' ){ ?>
@@ -107,7 +107,7 @@ if( ! function_exists( 'pluginsimplon_post_reaction_display' ) ):
                     <a react-data="be-react-4" post-id="<?php the_ID(); ?>" class="be-face-icons <?php echo esc_attr( $be_react_4_class ); ?>" href="javascript:void(0)">
                         <img src="<?php echo pluginsimplon_URL . '/assets/icon/angry.svg';?>" alt="<?php esc_html_e('Angry','booster-extension') ?>">
                     </a>
-                    <div class="twp-reaction-title"><?php esc_html_e('Legitimate','booster-extension') ?></div>
+                    <div class="twp-reaction-title"><?php esc_html_e('Fake News','booster-extension') ?></div>
                     <div class="twp-count-percent">
                         <?php if( $twp_be_react_percent_count != 'number' ){ ?>
                             <span style="display: none;" class="twp-react-count"><?php echo absint( $twp_be_react_4 ); ?></span>
