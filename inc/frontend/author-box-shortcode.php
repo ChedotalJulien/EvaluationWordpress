@@ -54,12 +54,6 @@ if( ! function_exists( 'pluginsimplon_authorbox_shortcode_display' ) ):
 			$twp_user_metabox_rss = get_the_author_meta( 'twp_user_metabox_rss',$userid );
 			?>
             <div class="be-author-panel">
-                <div class="be-author-details <?php if (!empty($twp_be_show_author_image_layout)) {
-                    echo esc_attr('layout-' . $twp_be_show_author_image_layout);
-                }
-                if (!empty($twp_be_show_author_alignmrnt)) {
-                    echo esc_attr(' align-' . $twp_be_show_author_alignmrnt);
-                } ?>">
                     <div class="be-author-wrapper">
                         <div class="booster-row">
                             <div class="booster-column booster-column-two booster-column-mobile">
